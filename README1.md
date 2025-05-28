@@ -1,6 +1,6 @@
 
 # Retail Sales Analysis SQL Project
-
+### Zakirul Khan
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
